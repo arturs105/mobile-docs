@@ -39,4 +39,4 @@ After a pull request has been approved it should not be changed except for bring
 
 Once a pull request is up to date with the base branch and approved, it should only be merged by the original contributor, unless they explicitly state that a reviewer is allowed to merge.
 
-When merging, consider which type of merge supported by GitHub is the best choice. Most pull requests should be small enough to be squashed into a single commit that still follows the commit guidelines. If this can not be done, prefer merging over rebasing to keep history intact.
+When merging, consider which type of merge supported by GitHub is the best choice. Most pull requests should be small enough to be squashed into a single commit that still follows the [commit guidelines](https://github.com/toggl/mobile-docs/blob/develop/commit-guidelines.md "Commit Guidelines"). If this can not be done, prefer merging over rebasing to keep history intact.

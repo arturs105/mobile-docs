@@ -22,7 +22,7 @@ Below you will find Vincent's original diagram adapted and extended correspondin
 
 `develop` is our main branch. It corresponds with the current work-in-progress state of the app, that we deal with most often as developers.
 
-`develop` is a protected branch and no commits can be pushed to it directly. The only way to add features, fix bugs, and make other changes is through pull requests that pass review and automated tests. For more details, see our pull request etiquette.
+`develop` is a protected branch and no commits can be pushed to it directly. The only way to add features, fix bugs, and make other changes is through pull requests that pass review and automated tests. For more details, see our [pull request etiquette](https://github.com/toggl/mobile-docs/blob/develop/pull-request-etiquette.md "Pull Request Etiquette").
 
 #### `master`
 
